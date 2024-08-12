@@ -19,7 +19,7 @@ width = "600"
 
 
 ### Play Project
-1. Browse to [SamuelAsherRivello.github.io/react-project-template](https://samuelasherrivello.github.io/react-project-template/index.html)
+1. Browse to [SamuelAsherRivello.github.io/react-dnfu](https://samuelasherrivello.github.io/react-dnfu/index.html)
 2. Enjoy!
 
 <BR>

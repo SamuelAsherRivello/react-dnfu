@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "type": "HOME",
+      "title": "Home",
+      "content": "home.html"
+    },
+    {
+      "type": "ABOUT",
+      "title": "About",
+      "content": "about.html"
+    },
+    {
+      "type": "CONTACT",
+      "title": "Contact",
+      "content": "contact.html"
+    }
+  ]
+}

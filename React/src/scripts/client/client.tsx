@@ -12,6 +12,5 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
     <GlobalProvider websiteName={websiteName}>
      <App />
     </GlobalProvider>,
-
   </React.StrictMode>,
 )

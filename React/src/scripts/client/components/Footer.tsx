@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
   const websiteName = useWebsite();
   return (
     <footer>
-       <p>{websiteName} &copy; 2024 All rights reserved.</p>
+       <p><a href="./">{websiteName}</a> &copy; 2024 All rights reserved.</p>
     </footer>
   );
 };

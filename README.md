@@ -1,6 +1,6 @@
-# The React Cinema App
+# Digital Nomads For Ukraine (DNFU)
 
-This interactive movie listings app is created with [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/), and [Vite](https://vitejs.dev/).
+This promotional experience is created with [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/), and [Vite](https://vitejs.dev/).
 
 <BR>
 
@@ -14,11 +14,10 @@ width = "600"
 </figure>
 <BR>
 
-
 # Getting Started
 
-
 ### Play Project
+
 1. Browse to [SamuelAsherRivello.github.io/react-dnfu](https://samuelasherrivello.github.io/react-dnfu/index.html)
 2. Enjoy!
 
@@ -28,7 +27,7 @@ width = "600"
 
 **Created By**
 
-- Samuel Asher Rivello 
+- Samuel Asher Rivello
 - Over 25 years XP with game development (2024)
 - Over 11 years XP with Unity (2024)
 

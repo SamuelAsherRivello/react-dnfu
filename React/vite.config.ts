@@ -11,6 +11,10 @@ export default defineConfig({
         {
           src: 'src/assets',
           dest: 'src/'
+        },
+        {
+          src: 'src/scripts/client/data/pages/*',
+          dest: 'src/scripts/client/data/pages/'
         }
       ]
     }),
@@ -18,8 +22,11 @@ export default defineConfig({
       targetFiles: ['dist/assets']
     }) as any // This is not working to delete the EXTRA /dist/assets/
   ],
-  base: './',
+  base: '', 
   server: {
     port: 3000,
+    watch: {
+      usePolling: true,
+    }
   },
 })
